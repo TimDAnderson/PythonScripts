@@ -1,5 +1,5 @@
 # PythonScripts
-Online backup of various Python scripts written by Tim Anderson
+Online backup of various Python scripts written by Tim Anderson.  All ReadMe's listed below:
 
 # DVD Tester
 
